@@ -5,8 +5,7 @@
 - 💼 I'm looking for my first job in the field.
 - 😄 Pronouns: He/his
 
-![Lucas.E GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasEvangelist0&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEvangelist0&layout=compact)](https://github.com/LucasEvangelist0/github-readme-stats)
+![Lucas.E GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasEvangelist0&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEvangelist0&layout=compact)](https://github.com/LucasEvangelist0/github-readme-stats)
 
 ## 👨👩 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-evangelista-3042151b2/)
