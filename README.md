@@ -1,9 +1,9 @@
 # Hello Everyone! I’m Lucas Evangelista! 👋
 
+- 😄 Pronouns: He/his
+- 💼 I'm looking for my first job in the field.
 - 🔭 I’m currently working on frontend projects;
 - 🌱 I’m currently learning Html, Css and Javascript;
-- 💼 I'm looking for my first job in the field.
-- 😄 Pronouns: He/his
 
 ![Lucas.E GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasEvangelist0&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEvangelist0&layout=compact)](https://github.com/LucasEvangelist0/github-readme-stats)
 
