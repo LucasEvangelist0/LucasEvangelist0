@@ -1,4 +1,4 @@
-# Hello Everyone! I’m Lucas Evangelista! 👋
+<h1 aling="center">Hello Everyone! I’m Lucas Evangelista! 👋</h1>
 
 - 😄 Pronouns: He/his
 - 💻 Software Development 
