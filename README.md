@@ -1,4 +1,4 @@
-<h1 aling="center">Hello Everyone! I’m Lucas Evangelista! 👋</h1>
+# Hello! I’m Lucas Evangelista! 👋
 
 - 😄 Pronouns: He/his
 - 💻 Software Development 
@@ -22,3 +22,5 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+
