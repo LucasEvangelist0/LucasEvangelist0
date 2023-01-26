@@ -6,7 +6,14 @@
 - 🔭 I’m currently working on frontend projects; 
 - 🌱 I’m currently learning Html, Css and Javascript;
 
-![Lucas.E GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasEvangelist0&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEvangelist0&layout=compact)](https://github.com/LucasEvangelist0/github-readme-stats)
+<div>
+  <a href="https://github.com/LucasEvangelist0">
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasEvangelist0&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasluizon&langs_count=16&theme=LucasEvangelist0&layout=compact"/>
+</p>
+ <a/>
+</div>
 
 ## 👨👩 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-evangelista-3042151b2/)
