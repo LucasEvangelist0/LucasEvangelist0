@@ -10,7 +10,7 @@
   <a href="https://github.com/LucasEvangelist0">
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasEvangelist0&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasluizon&langs_count=16&theme=LucasEvangelist0&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEvangelist0&langs_count=16&theme=LucasEvangelist0&layout=compact"/>
 </p>
  <a/>
 </div>
